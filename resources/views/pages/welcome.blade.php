@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title-page', 'Houses-faker-php')
+
 @section('main-content')
 
     <h1>Tutti i treni</h1>
